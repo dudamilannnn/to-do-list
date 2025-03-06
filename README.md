@@ -4,7 +4,7 @@ Uma To-Do List simples, feita com HTML, CSS e JavaScript. Este projeto permite q
 
 ## Demonstração
 
-![Demonstração da To-Do List](link-para-a-imagem-de-demonstração)
+![Demonstração da To-Do List](https://raw.githubusercontent.com/dudamilannnn/to-do-list/main/demonstração-to-do-list.jpg)
 
 ## Funcionalidades
 
