@@ -1,4 +1,4 @@
-# 🌸 To-Do List
+# 🌸 To-Do List 🌸
 
 Uma To-Do List simples, feita com HTML, CSS e JavaScript. Este projeto permite que você adicione, marque como conluídas e remova tarefas de forma divertida e colorida.
 
@@ -21,9 +21,13 @@ Uma To-Do List simples, feita com HTML, CSS e JavaScript. Este projeto permite q
 
 ## Como Usar
 
-1. **Clone o repositório** ou **baixe o arquivo HTML**: ```bash git clone https://github.com/dudamilannnn/to-do-list.git
+1. **Clone o repositório** ou **baixe o arquivo HTML**:
 
-2. **Abra o arquivo HTML**:
+```bash
+git clone https://github.com/dudamilannnn/to-do-list.git
+```
+
+3. **Abra o arquivo HTML**:
 
 - Navegue até a pasta onde o arquivo `to-do-list.html` está localizado.
 - Dê um duplo clique no arquivo ou abra-o com um navegador (Chrome, Firefox, etc.).
