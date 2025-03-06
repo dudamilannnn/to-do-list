@@ -21,7 +21,7 @@ Uma To-Do List simples, feita com HTML, CSS e JavaScript. Este projeto permite q
 
 ## Como Usar
 
-1. **Clone o repositório** ou **baixe o arquivo HTML**: ```bash git clone https://github.com/seu-usuario/to-do-list.git
+1. **Clone o repositório** ou **baixe o arquivo HTML**: ```bash git clone https://github.com/dudamilannnn/to-do-list.git
 
 2. **Abra o arquivo HTML**:
 
