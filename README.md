@@ -55,4 +55,4 @@ Este projeto é de uso livre. Sinta-se à vontade para usar e modificar conforme
 Se você tiver alguma dúvida ou sugestão, entre em contato:
 
 - **Duda Milan**: [Meu Email](mariaeduardamilan9@gmail.com)
-- **GitHub**: [Meu Github](https://github.com/dudamilannnn)
+- **GitHub**: [Meu GitHub](https://github.com/dudamilannnn)
